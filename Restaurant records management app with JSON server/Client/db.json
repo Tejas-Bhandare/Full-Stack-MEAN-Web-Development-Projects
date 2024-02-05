@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "The Lalit",
+      "address": "Mumbai Airport Road",
+      "email": "LalitInfo@gmail.com",
+      "services": "contenental",
+      "mobile": 888888882
+    },
+    {
+      "id": "2",
+      "name": "Grand Hayat",
+      "address": "Pune",
+      "email": "Hayat@gmail.com",
+      "services": "Indian",
+      "mobile": 9090909090
+    },
+    {
+      "id": "3",
+      "name": "Le Meridian",
+      "address": "Pune Mumbai highway",
+      "email": "Meridian@gmail.com",
+      "services": "Chinese & cintinental",
+      "mobile": 9999999999
+    },
+    {
+      "id": "4",
+      "name": "Shereton Grand",
+      "address": "Koregaon park",
+      "email": "GrandInfo@gmail.com",
+      "services": "Maharashtrian",
+      "mobile": 797989896767
+    },
+    {
+      "id": "5",
+      "name": "Mainland China",
+      "address": "Sb Road Pune",
+      "email": "Mainland@gmail.com",
+      "services": "Chinese & contenental",
+      "mobile": 7979892520
+    },
+    {
+      "id": 0,
+      "name": "Green Mellon",
+      "address": "Rajiv road, near Lili Beach, Navi Mumbai",
+      "email": "melllon@gmail.com",
+      "services": "Continental , Resort",
+      "mobile": 1542866252158
+    }
+  ],
+  "signup": [
+    {
+      "name": "Taj",
+      "email": "TajManagement@gmail.com",
+      "mobile": 999999999,
+      "password": "password@123",
+      "id": "1"
+    },
+    {
+      "name": "Admin",
+      "email": "Admin@gmail.com",
+      "mobile": 3164631649,
+      "password": "Admin@123",
+      "id": "2"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
