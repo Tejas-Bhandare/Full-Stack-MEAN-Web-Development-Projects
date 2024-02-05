@@ -19,9 +19,9 @@ The MEAN stack is a popular and robust technology stack for building full-stack 
 
 This repository will include various projects, each demonstrating different aspects of MEAN stack development. Here are some of the key projects you'll find:
 
-1. **Project One**: [Restaurant records management application.]
-2. **Project Two**: [Event Hub using Auth Guard.]
-3. ...
+1. **Project One**: [Restaurant records management app.]
+2. **Project Two**: [Restaurant records management app with JSON server.]
+3. **Project Two**: [Event Hub using Auth Guard.]
 
 Explore each project folder to learn more about its features, functionalities, and implementation details.
 
