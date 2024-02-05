@@ -21,7 +21,7 @@ This repository will include various projects, each demonstrating different aspe
 
 1. **Project One**: [Restaurant records management app.]
 2. **Project Two**: [Restaurant records management app with JSON server.]
-3. **Project Two**: [Event Hub using Auth Guard.]
+3. **Project Third**: [Event Hub using Auth Guard.]
 
 Explore each project folder to learn more about its features, functionalities, and implementation details.
 
